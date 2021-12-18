@@ -1,17 +1,17 @@
 body{
-  width: 414px;
+  width: 828px;
   font-family: 'Orbitron', sans-serif;
   display: flex;
   flex-direction: column;
-  padding: 20px;
+  padding: 40px;
   #content{
     text-align: center;
     div:nth-child(1){
       font-weight: bold;
-      font-size: 50px;
+      font-size: 100px;
     }
     div:nth-child(2){
-      font-size: 30px;
+      font-size: 60px;
       color: #8f8f8f;
     }
   }
